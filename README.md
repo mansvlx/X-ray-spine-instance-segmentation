@@ -59,5 +59,28 @@
 ![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/data/result/0111122_png.rf.19859110a93dc0f021a332e1ff17fe56.jpg_result.jpg "Шейный отдел")
 #### Позвонки грудного и поясничного отделов(T1-T12, L1-L5)
 ![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/data/result/01-July-2019-83_jpg.rf.9f3e9abbe168061df8dc544b1646af54.jpg_result.jpg "Грудной и поясничный отделы")
-### Box F1
-![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/BoxF1_curve.png "Box F1 curve")
+## Анализ метрик после обучения модели
+### BoxP
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/BoxP_curve.png "BoxP curve")
+
+### BoxR
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/BoxR_curve.png "BoxR curve")
+
+### BoxPR
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/BoxPR_curve.png "BoxPR curve")
+
+### BoxF1
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/BoxF1_curve.png "BoxF1 curve")
+
+### MaskP
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/MaskP_curve.png "MaskP curve")
+
+### MaskR
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/MaskR_curve.png "MaskR curve")
+
+### MaskPR
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/MaskPR_curve.png "MaskPR curve")
+
+### MaskF1
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/MaskF1_curve.png "MaskF1 curve")
+
