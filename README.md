@@ -54,3 +54,10 @@
 ---------------------------------------------------
 
 ## Результаты обучения
+Пример выполнения инстанс сегментации обученой модели:
+#### Позвонки шейного отдела(С1-С7)
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/data/result/0111122_png.rf.19859110a93dc0f021a332e1ff17fe56.jpg_result.jpg "Шейный отдел")
+#### Позвонки грудного и поясничного отделов(T1-T12, L1-L5)
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/data/result/01-July-2019-83_jpg.rf.9f3e9abbe168061df8dc544b1646af54.jpg_result.jpg "Грудной и поясничный отделы")
+### Box F1
+![alt text](https://github.com/mansvlx/X-ray-spine-instance-segmentation/blob/main/train%20result/BoxF1_curve.png "Box F1 curve")
