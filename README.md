@@ -13,7 +13,7 @@
 Для поиска датасетов были использванны следующие ресурсы:
 - [Roboflow](https://roboflow.com/)
 - [Kaggle](https://www.kaggle.com/)
-- [Hugging Face](httoips://huggingface.co/)
+- [Hugging Face](https://huggingface.co/)
 
 
 На Roboflow были найдены 2 датасета с подходящими данными:
